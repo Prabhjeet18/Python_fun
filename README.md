@@ -1,3 +1,2 @@
 # Snake Gaming Using Python Pygame 
 In This I have used Python pygame Library to make a simple Snake Apple Eating Game. I Have Used Object Orientd Approach to Make The Entire Code, Along with that I Have also Given the resources I Used to Create The Game.
-![Snake Game](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdotesports.com%2Fwp-content%2Fuploads%2F2023%2F10%2Fsnake-game-header.jpg%3Fresize%3D768%2C432&tbnid=kxgFvpQH3J_fPM&vet=12ahUKEwja1OuJ_YqFAxXo-DgGHYfYCZsQMygCegQIARB1..i&imgrefurl=https%3A%2F%2Fdotesports.com%2Fgeneral%2Fnews%2Fwhat-is-the-snake-game-world-record&docid=9oJhaAtnBxmalM&w=768&h=432&q=Snake%20Game%20%20image&ved=2ahUKEwja1OuJ_YqFAxXo-DgGHYfYCZsQMygCegQIARB1)
